@@ -3,6 +3,7 @@
 <p align="center">
   <img src="Picture1.png">
 </p>
+
 ## List of languages supported:
 The supported languages for translation into Arabic using TURJUMAN are Arabic, Bulgarian, Bosnian, Czech, Danish, German, Greek, English, Spanish, French, Hindi, Italian, Korean, Polish, Portuguese, Russian, Turkish, Cebuano, Scots Gaelic, Tamashek, and Yoruba.
 
