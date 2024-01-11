@@ -1,9 +1,8 @@
 # Arabic-Machine-Translation (TURJUMAN)
 
-![image](https://github.com/NjoodJ/Arabic-Machine-Translation/assets/93571826/d941672b-56f2-4fab-bf9e-0714042c82fa)
-
-TURJUMAN is a multilingual machine translation toolkit that uses the AraT5 model trained on the AraOPUS-20 dataset. It outperforms baselines on evaluation metrics like BLEU, METEOR, and TER.
-
+<p align="center">
+  <img src="Picture1.png">
+</p>
 ## List of languages supported:
 The supported languages for translation into Arabic using TURJUMAN are Arabic, Bulgarian, Bosnian, Czech, Danish, German, Greek, English, Spanish, French, Hindi, Italian, Korean, Polish, Portuguese, Russian, Turkish, Cebuano, Scots Gaelic, Tamashek, and Yoruba.
 
